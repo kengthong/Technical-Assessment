@@ -3,11 +3,6 @@ import {BrowserRouter, Route, Switch} from "react-router-dom";
 // CSS
 import "./App.css";
 
-import "./css/bootstrap.css";
-import "./css/bootstrap.min.css";
-import "./css/font-awesome.min.css";
-import "./css/style.css";
-import "./css/responsive.css";
 import HomePage from "./pages/Home";
 // components
 
