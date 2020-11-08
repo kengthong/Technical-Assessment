@@ -3,8 +3,10 @@ import HomeComponent from "../components/Home";
 
 const HomePage = () => {
     return (
-        <div>
-            Home page
+        <div className="padding-24">
+            <span className="fs-32">
+                Home
+            </span>
             <HomeComponent />
         </div>
     )

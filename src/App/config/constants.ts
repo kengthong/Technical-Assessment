@@ -1,0 +1,4 @@
+export const TRAFFIC_API = "https://api.data.gov.sg/v1/transport/traffic-images";
+export const WEATHER_API = "https://api.data.gov.sg/v1/environment/2-hour-weather-forecast";
+export const TEMP_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjY2NzcsInVzZXJfaWQiOjY2NzcsImVtYWlsIjoid29va2VuZ3Rob25nQGdtYWlsLmNvbSIsImZvcmV2ZXIiOmZhbHNlLCJpc3MiOiJodHRwOlwvXC9vbTIuZGZlLm9uZW1hcC5zZ1wvYXBpXC92MlwvdXNlclwvc2Vzc2lvbiIsImlhdCI6MTYwNDg0NDgyOCwiZXhwIjoxNjA1Mjc2ODI4LCJuYmYiOjE2MDQ4NDQ4MjgsImp0aSI6IjMyMGJjNTc5ZmM4M2Q0NjdlNjZiYzU5ZDYzMzMzMzZmIn0.vDZJ15HmdVS1ENKUNlvB9bdNvtUbP7NjZb99vdhMSas";
+export const REVERSE_GEO_API = "https://developers.onemap.sg/privateapi/commonsvc/revgeocode";

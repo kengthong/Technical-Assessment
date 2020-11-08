@@ -2,6 +2,7 @@ import React from "react";
 import {BrowserRouter, Route, Switch} from "react-router-dom";
 // CSS
 import "./App.css";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import HomePage from "./pages/Home";
 // components
